@@ -5,7 +5,7 @@
   "scripts": {
     "start": "serve -s -l 4200"
   },
-  "author": "Joel Denning",
+  "author": "Jeffrin",
   "license": "MIT",
   "devDependencies": {
     "serve": "^11.1.0"
