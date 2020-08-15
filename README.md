@@ -1,0 +1,3 @@
+# Micro_Frontend
+
+This is a Sample demo to create for micro - frontends work using single-spa walkthrough.. with various SPAs like Angular, Vue, React...
